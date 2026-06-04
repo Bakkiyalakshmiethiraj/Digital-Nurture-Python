@@ -2,8 +2,6 @@
 
 This repository contains solutions for **55 Python Programming Exercises** covering fundamentals, data structures, object-oriented programming, file handling, error handling, modules, and real-world application simulations.
 
-The exercises are designed to strengthen problem-solving skills and practical Python development.
-
 ---
 
 # Topics Covered
@@ -523,10 +521,9 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 - OOP Concepts
 
 ---
-
-# Author
-
-**ADITHYA V**
-
-B.E. CSE (IoT)  
+# Created by,,
+```
+BAKKIYALAKSHMI E
+B-TECH(IT)
 Saveetha Engineering College
+```
